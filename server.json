@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/data-lv",
+  "title": "Data Lv",
+  "description": "Latvia Open Data (data.gov.lv) CKAN MCP.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/data-lv",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-data-lv",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/data-lv/mcp"
+    }
+  ]
+}
