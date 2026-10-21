@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-lv",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Latvia Open Data (data.gov.lv) CKAN MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-e727f8fabdfb1b0350356005131025244a0261c84fec264d3fc877309d05ceff",
-    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
+    "sourceHash": "v1-aac0f39ce8ef88d8111be3650018d6ecc98d56f8aaccaa4549a9309be483d5cb",
+    "sourceCommit": "8355bf3d1eece256a62a89dba2278e7a77bebe07"
   }
 }
